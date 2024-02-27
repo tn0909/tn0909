@@ -4,9 +4,9 @@
 I am a software engineer with over 15 years of experience.
 
 ### Skills
-- C#, Scala, Java, TypeScript, JavaScript
-- ASP.NET, AngularJS, HTML, CSS, Spring Boot, Play Framework
-- Microsoft SQL Server, MySQL, Elasticsearch, Kafka, Cassandra, Redis
-- Kubernetes, Docker
-- Google Cloud Platform (GCP), Amazon Web Services (AWS)
-- Agile, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
+- Programming Languages: C#, Scala, Java, TypeScript, JavaScript
+- Web Technologies: ASP.NET, AngularJS, HTML, CSS, Spring Boot, Play Framework
+- Databases: Microsoft SQL Server, MySQL, Cassandra, Elasticsearch
+- Cloud Platforms and Technologies: Kubernetes, Docker, Google Cloud Platform (GCP), Amazon Web Services (AWS)
+- Testing Frameworks: NUnit, ScalaTest, Mockito
+- Methodologies and Practices: Agile, Software Development Life Cycle (SDLC), Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
