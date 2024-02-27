@@ -1,5 +1,3 @@
-# Trang Nguyen
-
 ### About me
 I am a software engineer with 15+ years of experience dedicated to building robust and scalable software applications
 
